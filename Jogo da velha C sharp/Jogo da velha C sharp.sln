@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo da velha C sharp", "Jogo da velha C sharp.csproj", "{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E03E2A6D-24C8-4085-8E42-FADCEE7D18B8}
+	EndGlobalSection
+EndGlobal
