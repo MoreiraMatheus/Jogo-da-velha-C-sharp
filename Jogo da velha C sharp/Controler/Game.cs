@@ -1,13 +1,14 @@
 namespace TicTacToe;
 public static class Game {
     public static void start() {
-        string[,] testeGrid = {
-            { "O", "O", "O" },
-            { "X", "X", "X" },
-            { ".", ".", "." }
+        string[,] gameGrid = {
+            { " ", " ", " " },
+            { " ", " ", " " },
+            { " ", " ", " " }
         };
 
         Console.WriteLine("Game iniciado.");
-        Grid.showGrid(testeGrid);
+
+        Grid.showGrid(gameGrid, 0, 0);
     }
 }

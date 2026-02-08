@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}|Jogo da velha C sharp.csproj|c:\\users\\famil\\onedrive\\documentos\\programa\u00E7\u00E3o\\estudos\\c#\\jogo-da-velha-c-sharp\\jogo da velha c sharp\\view\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}|Jogo da velha C sharp.csproj|solutionrelative:view\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}|Jogo da velha C sharp.csproj|c:\\users\\famil\\onedrive\\documentos\\programa\u00E7\u00E3o\\estudos\\c#\\jogo-da-velha-c-sharp\\jogo da velha c sharp\\controler\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}|Jogo da velha C sharp.csproj|solutionrelative:controler\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}|Jogo da velha C sharp.csproj|c:\\users\\famil\\onedrive\\documentos\\programa\u00E7\u00E3o\\estudos\\c#\\jogo-da-velha-c-sharp\\jogo da velha c sharp\\view\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}|Jogo da velha C sharp.csproj|solutionrelative:view\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A7700A8-C79C-4C5F-AED8-7688B14CBDBB}|Jogo da velha C sharp.csproj|c:\\users\\famil\\onedrive\\documentos\\programa\u00E7\u00E3o\\estudos\\c#\\jogo-da-velha-c-sharp\\jogo da velha c sharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Grid.cs",
-              "DocumentMoniker": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\View\\Grid.cs",
-              "RelativeDocumentMoniker": "View\\Grid.cs",
-              "ToolTip": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\View\\Grid.cs",
-              "RelativeToolTip": "View\\Grid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T01:58:37.297Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -44,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\View\\Grid.cs",
+              "RelativeDocumentMoniker": "View\\Grid.cs",
+              "ToolTip": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\View\\Grid.cs*",
+              "RelativeToolTip": "View\\Grid.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T01:58:37.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\Controler\\Game.cs",
               "RelativeDocumentMoniker": "Controler\\Game.cs",
-              "ToolTip": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\Controler\\Game.cs",
-              "RelativeToolTip": "Controler\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\famil\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Estudos\\C#\\Jogo-da-velha-C-sharp\\Jogo da velha C sharp\\Controler\\Game.cs*",
+              "RelativeToolTip": "Controler\\Game.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T01:52:46.651Z",
               "EditorCaption": ""
